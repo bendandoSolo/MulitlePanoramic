@@ -744,18 +744,22 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 /* View control buttons */
 
 .viewControlButton {
-  display: none;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 40px;
-  height: 40px;
-  padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+    /*display: none;*/
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    background-color: rgb(28,172,124);
+    background-color: rgba(28,172,124,0.8);
 }
 
-body.view-control-buttons .viewControlButton {
+.viewControlButton:hover {
+    opacity: 0.7;
+}
+
+    body .view-control-buttons .viewControlButton {
   display: block;
 }
 

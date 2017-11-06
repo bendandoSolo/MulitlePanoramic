@@ -2,7 +2,7 @@ var APP_DATA = {
     "scenes": [
         {
             "id": "0-livingarea",
-            "name": "LivingArea",
+            "name": "Living Area",
             "levels": [
                 {
                     "tileSize": 256,

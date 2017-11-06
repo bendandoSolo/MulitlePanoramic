@@ -97,6 +97,13 @@
     <Content Include="Global.asax" />
     <Content Include="img\close.png" />
     <Content Include="img\collapse.png" />
+    <Content Include="img\Custom\Left.png" />
+    <Content Include="img\Custom\Down.png" />
+    <Content Include="img\Custom\Original\Down.png" />
+    <Content Include="img\Custom\Original\Left.png" />
+    <Content Include="img\Custom\Original\Up.png" />
+    <Content Include="img\Custom\RIght.png" />
+    <Content Include="img\Custom\Up.png" />
     <Content Include="img\down.png" />
     <Content Include="img\expand.png" />
     <Content Include="img\fullscreen.png" />
